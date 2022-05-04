@@ -15,4 +15,12 @@ function addPokemonImage(object) {
     `
     $pokemonListing.append(pokeLi);
 }
+function addName(name) {
+
+}
+
+function addImage ( url )
+{
+}
+
 module.exports = addPokemonImage;

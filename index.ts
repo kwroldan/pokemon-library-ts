@@ -11,13 +11,13 @@ function capitalizeFirstLetter(name: string) {
     return name.charAt(0).toUpperCase() + name.slice(1)
 }
 
-function addPokemonImage(object: Pokemon) {
+function addPokemonImage(pokemon: Pokemon) {
     const pokeLi = document.createElement("li");
     pokeLi.innerHTML = `
-        <a href="pokemon.html?pokemon=${object.name}"
+        <a href="pokemon.html?pokemon=${pokemon.name}"
             <figure>
-                <img src="${object.sprites.front_default}" alt="${capitalizeFirstLetter(object.name)}" />
-                <figcaption>${capitalizeFirstLetter(object.name)}</figcaption>
+                <img src="${pokemon.sprites.front_default}" alt="${capitalizeFirstLetter(pokemon.name)}" />
+                <figcaption>${capitalizeFirstLetter(pokemon.name)}</figcaption>
             </figure>
         </a>
     `
