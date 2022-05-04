@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
+header {
+    background-color:hsl(0, 0%, 10%);
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    text-align: center;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(222, 48%, 44%);
+}
+
+.pokemon-header {
+    text-align: center;
+    font-size: 56px;
+    font-family: 'Pokemon Solid', sans-serif;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.pokemon-header a {
+    text-decoration: none;
+    color: rgb(245, 195, 14);
+    text-shadow: -5px 5px 0 hsl(222, 48%, 44%),
+        5px 5px 0 hsl(222, 48%, 44%),
+        5px 5px 0 hsl(222, 48%, 44%),
+        -5px 5px 0 hsl(222, 48%, 44%);
+}
+
+.pokemon-listing {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(10, 1fr); 
+    grid-gap: 12px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.pokemon-listing > figure {
+    border: ridge 5px rgb(245,194,14);
+    padding: 5px;
+}
+
+.pokemon-listing > figure:hover {
+    background-color: rgb(245,194,14);
+    transition: all 0.5s ease;
+}
+
+.pokemon-listing > figure > a {
+    text-decoration: none;
+    color: hsl(222, 48%, 64%);
+}
+
+.pokemon-detail-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sprite {
+    background-color: hsl(0, 0%, 10%);
+}
+
+#pokemon-detail {
+    border: ridge 15px rgb(245,194,14);
+    width: 350px;
+    height: 500px;
+    /*background-color: white;*/
+    padding: 15px;
+    color: black;
+}
+
+#pokemon-detail > figure {
+    border: ridge 9px rgb(245, 195, 14);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+
+.pokeName {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.abilities-list {
+    font-size: 14px;
+}
+
+.ability-list-item {
+    display: block;
+    border-bottom: solid 2px black;
+    padding-bottom: 5px;
+}
+
+.ability-name {
+    font-weight: bold;
+}
+
+li + li {
+    margin-top: 10px;
+}
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.spinner {
+    width: 100px;
+}
+
+.hidden {
+    display: none;
+}
+
+.normal {
+    background: hsl(60, 8%, 71%);
+}
+
+.fighting {
+    background: #A75543;
+}
+
+.flying {
+    background: #78A2FF;
+}
+
+.poison {
+    background: #A95CA0;
+}
+
+.ground {
+    background: hsl(47, 82%, 43%);
+}
+
+.rock {
+    background: #CCBD72;
+}
+
+.bug {
+    background: #C2D21E;
+}
+
+.ghost {
+    background: #7975D7;
+}
+
+.steel {
+    background: #C4C2DB;
+}
+
+.fire {
+    background: #FA5643;
+}
+
+.water {
+    background: #56ADFF;
+}
+
+.grass {
+    background: #8CD750;
+}
+
+.electric {
+    background: #FDE139;
+}
+
+.psychic {
+    background: #FA65B4;
+}
+
+.ice {
+    background: #96F1FF;
+}
+
+.dragon {
+    background: #8673FF;
+}
+
+.dark {
+    background: #8D6855;
+}
+
+.fairy {
+    background: #F9AEFF;
+}

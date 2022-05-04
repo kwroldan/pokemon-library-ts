@@ -1,20 +1,21 @@
 10855
 69/home/kwroldan/assignments/pokemon-library-ts/Poké_Ball_icon.svg.png1651695513174413200 0
-54/home/kwroldan/assignments/pokemon-library-ts/index.ts1651698956554413200 0
-56/home/kwroldan/assignments/pokemon-library-ts/index.html1651696279244413200 0
-53/home/kwroldan/assignments/pokemon-library-ts/app.css1651683174714413200 0
+54/home/kwroldan/assignments/pokemon-library-ts/index.ts1651699542334413200 0
+56/home/kwroldan/assignments/pokemon-library-ts/index.html1651699559654413200 0
+53/home/kwroldan/assignments/pokemon-library-ts/app.css1651699382804413200 0
 55/home/kwroldan/assignments/pokemon-library-ts/.eslintrc1651695937284413200 0
 61/home/kwroldan/assignments/pokemon-library-ts/network.test.js1651694894354413200 0
-68/home/kwroldan/assignments/pokemon-library-ts/dist/index.8e9bd240.js1651698783494413200 0
-61/home/kwroldan/assignments/pokemon-library-ts/dist/index.html1651698005974413200 0
-69/home/kwroldan/assignments/pokemon-library-ts/dist/index.75a90472.css1651698005974413200 0
+68/home/kwroldan/assignments/pokemon-library-ts/dist/index.8e9bd240.js1651699542414413200 0
+70/home/kwroldan/assignments/pokemon-library-ts/dist/pokemon.e0c18625.js1651699612694413200 0
+61/home/kwroldan/assignments/pokemon-library-ts/dist/index.html1651699559744413200 0
+69/home/kwroldan/assignments/pokemon-library-ts/dist/index.75a90472.css1651699382964413200 0
 72/home/kwroldan/assignments/pokemon-library-ts/dist/index.242b51c6.js.map1651695514044413200 0
 74/home/kwroldan/assignments/pokemon-library-ts/dist/pokemon.8cf28159.js.map1651695514134413200 0
-73/home/kwroldan/assignments/pokemon-library-ts/dist/index.75a90472.css.map1651698005974413200 0
-63/home/kwroldan/assignments/pokemon-library-ts/dist/pokemon.html1651695514134413200 0
-56/home/kwroldan/assignments/pokemon-library-ts/pokemon.ts1651698910854413200 0
+73/home/kwroldan/assignments/pokemon-library-ts/dist/index.75a90472.css.map1651699382964413200 0
+63/home/kwroldan/assignments/pokemon-library-ts/dist/pokemon.html1651699805254413200 0
+56/home/kwroldan/assignments/pokemon-library-ts/pokemon.ts1651699717704413200 0
 56/home/kwroldan/assignments/pokemon-library-ts/network.js1651694894354413200 0
-58/home/kwroldan/assignments/pokemon-library-ts/pokemon.html1651699061774413200 0
+58/home/kwroldan/assignments/pokemon-library-ts/pokemon.html1651699805104413200 0
 63/home/kwroldan/assignments/pokemon-library-ts/functions.test.js1651697736134413200 0
 63/home/kwroldan/assignments/pokemon-library-ts/package-lock.json1651695899404413200 0
 81/home/kwroldan/assignments/pokemon-library-ts/node_modules/resolve-from/readme.md1651683450754413200 0
@@ -1405,7 +1406,6 @@
 101/home/kwroldan/assignments/pokemon-library-ts/node_modules/@babel/generator/lib/generators/classes.js1651683451024413200 0
 119/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/utils/dist/ts-eslint/ParserOptions.js.map1651695894874413200 0
 105/home/kwroldan/assignments/pokemon-library-ts/node_modules/ts-jest/node_modules/semver/functions/major.js1651683664704413200 0
-52/home/kwroldan/assignments/pokemon-library-ts/dom.js1651694894344413200 0
 104/home/kwroldan/assignments/pokemon-library-ts/node_modules/caniuse-lite/data/features/custom-elements.js1651683452414413200 0
 111/home/kwroldan/assignments/pokemon-library-ts/node_modules/@babel/generator/lib/generators/template-literals.js1651683451484413200 0
 101/home/kwroldan/assignments/pokemon-library-ts/node_modules/@babel/generator/lib/generators/methods.js1651683451334413200 0
@@ -2043,7 +2043,7 @@
 111/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/transformer-js/node_modules/semver/range.bnf1651695703884413200 0
 84/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/codeframe/LICENSE1651695703714413200 0
 107/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/core/lib/requests/WriteBundlesRequest.js1651695706544413200 0
-58/home/kwroldan/assignments/pokemon-library-ts/package.json1651695899404413200 0
+58/home/kwroldan/assignments/pokemon-library-ts/package.json1651699130714413200 0
 82/home/kwroldan/assignments/pokemon-library-ts/node_modules/lodash.sortby/README.md1651695703724413200 0
 101/home/kwroldan/assignments/pokemon-library-ts/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map1651695894434413200 0
 111/home/kwroldan/assignments/pokemon-library-ts/node_modules/jest-snapshot/node_modules/semver/functions/valid.js1651683451924413200 0
@@ -2149,7 +2149,6 @@
 107/home/kwroldan/assignments/pokemon-library-ts/node_modules/jest-config/build/readConfigFileAndSetRootDir.js1651683451434413200 0
 87/home/kwroldan/assignments/pokemon-library-ts/node_modules/eslint/lib/rules/no-alert.js1651695895794413200 0
 80/home/kwroldan/assignments/pokemon-library-ts/node_modules/whatwg-url/lib/URL.js1651695704094413200 0
-57/home/kwroldan/assignments/pokemon-library-ts/dom.test.js1651694894344413200 0
 91/home/kwroldan/assignments/pokemon-library-ts/node_modules/jest-config/build/setFromArgv.js1651683451534413200 0
 130/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/scope-manager/dist/variable/ImplicitLibVariable.d.ts1651695896764413200 0
 99/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/core/src/public/PluginOptions.js1651695706294413200 0
@@ -3008,7 +3007,7 @@
 88/home/kwroldan/assignments/pokemon-library-ts/node_modules/terser/lib/compress/inline.js1651695705754413200 0
 120/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/scope-manager/dist/variable/index.d.ts.map1651695896104413200 0
 135/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/eslint-plugin/docs/rules/explicit-member-accessibility.md1651695896804413200 0
-45/home/kwroldan/assignments/pokemon-library-ts1651695931524413200 1
+45/home/kwroldan/assignments/pokemon-library-ts1651699212314413200 1
 107/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/scope-manager/dist/lib/es7.js1651695894744413200 0
 110/home/kwroldan/assignments/pokemon-library-ts/node_modules/supports-preserve-symlinks-flag/.github/FUNDING.yml1651683451204413200 0
 85/home/kwroldan/assignments/pokemon-library-ts/node_modules/@nodelib/fs.stat/README.md1651695893904413200 0
@@ -3184,7 +3183,7 @@
 77/home/kwroldan/assignments/pokemon-library-ts/node_modules/get-port/readme.md1651695703894413200 0
 111/home/kwroldan/assignments/pokemon-library-ts/node_modules/eslint/lib/rules/nonblock-statement-body-position.js1651695896764413200 0
 97/home/kwroldan/assignments/pokemon-library-ts/node_modules/terser/node_modules/commander/index.js1651695703824413200 0
-83/home/kwroldan/assignments/pokemon-library-ts/dist/Poké_Ball_icon.svg.021be597.png1651695514124413200 0
+83/home/kwroldan/assignments/pokemon-library-ts/dist/Poké_Ball_icon.svg.021be597.png1651699074224413200 0
 89/home/kwroldan/assignments/pokemon-library-ts/node_modules/@babel/types/lib/modifications1651683452254413200 1
 94/home/kwroldan/assignments/pokemon-library-ts/node_modules/eslint/lib/rules/no-invalid-this.js1651695896284413200 0
 146/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/package.json1651695706404413200 0
@@ -5030,7 +5029,7 @@
 111/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/scope-manager/dist/lib/es7.js.map1651695895814413200 0
 87/home/kwroldan/assignments/pokemon-library-ts/node_modules/typescript/lib/watchGuard.js1651683665804413200 0
 115/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/scope-manager/dist/lib/es2015.core.js1651695894174413200 0
-72/home/kwroldan/assignments/pokemon-library-ts/dist/index.8e9bd240.js.map1651698783504413200 0
+72/home/kwroldan/assignments/pokemon-library-ts/dist/index.8e9bd240.js.map1651699542414413200 0
 87/home/kwroldan/assignments/pokemon-library-ts/node_modules/@parcel/cache/lib/types.d.ts1651695704474413200 0
 109/home/kwroldan/assignments/pokemon-library-ts/node_modules/caniuse-lite/data/features/css-case-insensitive.js1651683452284413200 0
 81/home/kwroldan/assignments/pokemon-library-ts/node_modules/nth-check/lib/index.js1651695703834413200 0
@@ -5442,7 +5441,7 @@
 124/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/eslint-plugin/dist/rules/no-empty-interface.js1651695894934413200 0
 133/home/kwroldan/assignments/pokemon-library-ts/node_modules/typescript/loc/lcl/ITA/TypeScriptDebugEngine/TypeScriptDebugEngine.dll.lcl1651683666154413200 0
 112/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/utils/dist/ts-eslint/SourceCode.js1651695894444413200 0
-50/home/kwroldan/assignments/pokemon-library-ts/dist1651698783504413200 1
+50/home/kwroldan/assignments/pokemon-library-ts/dist1651699805254413200 1
 103/home/kwroldan/assignments/pokemon-library-ts/node_modules/@eslint/eslintrc/node_modules/type-fest/ts411651695894264413200 1
 137/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/functions/rcompare.js1651695894214413200 0
 106/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/utils/dist/ts-eslint/Rule.js1651695894354413200 0
@@ -5617,6 +5616,7 @@
 131/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/ranges/valid.js1651695894364413200 0
 82/home/kwroldan/assignments/pokemon-library-ts/node_modules/domhandler/package.json1651695704024413200 0
 116/home/kwroldan/assignments/pokemon-library-ts/node_modules/@humanwhocodes/object-schema/tests/validation-strategy.js1651695893844413200 0
+74/home/kwroldan/assignments/pokemon-library-ts/dist/pokemon.e0c18625.js.map1651699612694413200 0
 71/home/kwroldan/assignments/pokemon-library-ts/node_modules/@babel/types1651683452334413200 1
 134/home/kwroldan/assignments/pokemon-library-ts/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/functions/clean.js1651695893514413200 0
 102/home/kwroldan/assignments/pokemon-library-ts/node_modules/caniuse-lite/data/features/console-basic.js1651683452224413200 0

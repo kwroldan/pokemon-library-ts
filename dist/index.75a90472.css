@@ -1,3 +1,195 @@
+@import "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap";
+@import "http://fonts.cdnfonts.com/css/pokemon-solid";
+header {
+  background-color: #1a1a1a;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
 
+body {
+  text-align: center;
+  color: #3a5ba6;
+  background-color: #333;
+  font-family: "Press Start 2P", cursive;
+  font-size: 10px;
+}
+
+.pokemon-header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 10px;
+  font-family: Pokemon Solid, sans-serif;
+  font-size: 56px;
+}
+
+.pokemon-header a {
+  color: #f5c30e;
+  text-shadow: -5px 5px #3a5ba6, 5px 5px #3a5ba6, 5px 5px #3a5ba6, -5px 5px #3a5ba6;
+  text-decoration: none;
+}
+
+.pokemon-listing {
+  grid-gap: 12px;
+  grid-template-rows: repeat(10, 1fr);
+  grid-template-columns: repeat(5, 1fr);
+  margin-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: grid;
+}
+
+.pokemon-listing > figure {
+  border: 5px ridge #f5c20e;
+  padding: 5px;
+}
+
+.pokemon-listing > figure:hover {
+  background-color: #f5c20e;
+  transition: all .5s;
+}
+
+.pokemon-listing > figure > a {
+  color: #7792cf;
+  text-decoration: none;
+}
+
+.pokemon-detail-container {
+  justify-content: center;
+  display: flex;
+}
+
+.sprite {
+  background-color: #1a1a1a;
+}
+
+#pokemon-detail {
+  width: 350px;
+  height: 500px;
+  color: #000;
+  border: 15px ridge #f5c20e;
+  padding: 15px;
+}
+
+#pokemon-detail > figure {
+  width: 70%;
+  border: 9px ridge #f5c30e;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pokeName {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+h3 {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.abilities-list {
+  font-size: 14px;
+}
+
+.ability-list-item {
+  border-bottom: 2px solid #000;
+  padding-bottom: 5px;
+  display: block;
+}
+
+.ability-name {
+  font-weight: bold;
+}
+
+li + li {
+  margin-top: 10px;
+}
+
+.spinner-container {
+  justify-content: center;
+  margin-bottom: 24px;
+  display: flex;
+}
+
+.spinner {
+  width: 100px;
+}
+
+.hidden {
+  display: none;
+}
+
+.normal {
+  background: #bbbbaf;
+}
+
+.fighting {
+  background: #a75543;
+}
+
+.flying {
+  background: #78a2ff;
+}
+
+.poison {
+  background: #a95ca0;
+}
+
+.ground {
+  background: #c8a114;
+}
+
+.rock {
+  background: #ccbd72;
+}
+
+.bug {
+  background: #c2d21e;
+}
+
+.ghost {
+  background: #7975d7;
+}
+
+.steel {
+  background: #c4c2db;
+}
+
+.fire {
+  background: #fa5643;
+}
+
+.water {
+  background: #56adff;
+}
+
+.grass {
+  background: #8cd750;
+}
+
+.electric {
+  background: #fde139;
+}
+
+.psychic {
+  background: #fa65b4;
+}
+
+.ice {
+  background: #96f1ff;
+}
+
+.dragon {
+  background: #8673ff;
+}
+
+.dark {
+  background: #8d6855;
+}
+
+.fairy {
+  background: #f9aeff;
+}
 
 /*# sourceMappingURL=index.75a90472.css.map */

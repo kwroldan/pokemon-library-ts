@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        // Compatibility
+        "lib": [
+            "DOM",
+            "ESNext"
+        ], // What built-in stuff exists in the environment?
+        "target": "es2015", // Which JS version should your code compile to?
+        // Smart default options
+        "strict": true, // Require all of your code to have types
+        "module": "commonjs", // What module system are you using?
+        "sourceMap": true, // Improves debugging messages
+        // Output
+        "outDir": "dist" // Where should the compiled .js code go?
+    },
+    "include": [ // Where are your .ts files?
+        "./pokemon.ts",
+        "./index.ts" // Path is relative to this file
+    ]
+}

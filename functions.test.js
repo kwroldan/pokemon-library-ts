@@ -1,8 +1,5 @@
-const capitalize = require("./functions")
+const { capitalizeFirstLetter } = require("./functions")
 
 test("capitalizes the first letter of bulbasaur to return Bulbasaur", () => {
-    expect(capitalize("bulbasaur")).toBe("Bulbasaur")
+    expect(capitalizeFirstLetter("bulbasaur")).toBe("Bulbasaur")
 })
-
-
-
